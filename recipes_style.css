@@ -1,7 +1,7 @@
-.Home .image {
-    border: 15px;
+.Home {
+    border-radius: 15px;
 }
 
-.body {
-    background-color: blue;
+body {
+    background-color: beige; 
 }
